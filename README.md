@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ChrnCj
 - 👀 I’m interested in AR/VR
-- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on Game Design
-- 📫 How to reach me: envystudioz07@gmail.com
+- 📫 How to reach me: chrnoffl@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I never stay on the same track
 
